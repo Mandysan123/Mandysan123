@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E78A04&height=60&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&color=ff1b5f&size=32&duration=5000&pause=2000&center=true&vCenter=true&width=1000&lines=👋+Olá+;Eu+sou+a+Amanda;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas+🤖;Técnica+em+Redes+de+Computadores; )](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&color=E78A04&size=32&duration=5000&pause=2000&center=true&vCenter=true&width=1000&lines=👋+Olá+;Eu+sou+a+Amanda;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas+🤖;Técnica+em+Redes+de+Computadores;)](https://git.io/typing-svg)
 <h2 align="left"> Estudante de Análise e Desenvolvimento de Sistemas | Técnica em Redes de Computadores </h2>
 
 ###
